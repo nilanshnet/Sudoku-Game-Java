@@ -1,6 +1,8 @@
 # Sudoku Game with GUI written in Java
 
+
  <img width="309" alt="Screenshot 2021-12-15 at 5 18 40 AM" src="https://user-images.githubusercontent.com/26367904/146637830-5b7a08f3-f340-4ce2-9d4f-5aee9981b71b.png">
+
 
 ## Description
 
@@ -14,10 +16,11 @@ Game Server acts as a link between the client and database to save the state of 
     In case of Eclipse - it imported as an external JAR in the library.
         Project -> properties -> Java build path -> libraries -> Add External JARs
 
-2. Database file having the table - 'Players' with the following schema:
+2. Database file having the table - **'Players'** with the following schema:
     
+    ![image](https://user-images.githubusercontent.com/26367904/146637914-e03757c2-9cfc-4908-b6ad-a02aa730a3e0.png)
 
-    The project already has a file [Database file](./javabook.db) - `javabook.db` for this purpose.
+    The project already has a file [Database file](./javabook.db) - `javabook.db` for this purpose, with the table present.
 
 
 ## Application Components:
@@ -40,12 +43,12 @@ Game GUI - also acts as client, Game logic, Game Server, Database.
 
 3. Play The GAME:
 
-*** Use the ‘Start Game’ button to start a game, this will give you a default game.
-*** As you keep filling the blank entries, you can also check your progress by using the ‘Check’ button at any time – to verify your entries.
-*** ‘Clear Board’ lets you start from scratch.
+> - Use the **'Start Game’** button to start a game, this will give you a default game.
+> - As you keep filling the blank entries, you can also check your progress by using the **‘Check’** button at any time – to verify your entries.
+> - **‘Clear Board'** button lets you start from scratch or clear the current game.
 
-4. Tip – if you want to start a random game instead of a saved game, just input one number in any one of the ‘bordered’ entries for numbers - Not the ones that the player has to fill.
-Once you input one number -> Hit the ‘start game’ button for a different game.
+4. Tip – if you want to start a random game instead of a saved game, just input one number in any one of the **bordered** entries for numbers - ***Not the ones that the player has to fill.***
+Once you input one number -> Hit the **‘Start Game’** button for a different game.
 
 
 ## Future Scope:
