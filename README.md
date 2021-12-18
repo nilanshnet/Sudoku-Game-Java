@@ -14,7 +14,8 @@ Game Server acts as a link between the client and database to save the state of 
 
 1. The ` sqlite-jdbc.jar ` [file](./sqlite-jdbc-3.30.1.jar) to connect to the database
     In case of Eclipse - it imported as an external JAR in the library.
-        Project -> properties -> Java build path -> libraries -> Add External JARs
+
+    > **Project -> properties -> Java build path -> libraries -> Add External JARs**
 
 2. Database file having the table - **'Players'** with the following schema:
     
@@ -37,15 +38,15 @@ Game GUI - also acts as client, Game logic, Game Server, Database.
 
 ## How to run the Game:
 
-1. Once you are done with the pre-requisites section, run the file `server.java` within the [src directory](./src). This starts the Game server.
+1. Once you are done with the pre-requisites section, run the file [Server.java](./src/sudoku/Server.java) within the "src" directory. This starts the Game server.
 
-2. Within the [src directory](./src) run the `App.java` file as a Java application, to start the GUI.
+2. Within the "src" directory run the [App.java](./src/sudoku/App.java) file as a Java application, to start the GUI.
 
 3. Play The GAME:
 
-> - Use the **'Start Game’** button to start a game, this will give you a default game.
-> - As you keep filling the blank entries, you can also check your progress by using the **‘Check’** button at any time – to verify your entries.
-> - **‘Clear Board'** button lets you start from scratch or clear the current game.
+- Use the **'Start Game’** button to start a game, this will give you a default game.
+- As you keep filling the blank entries, you can also check your progress by using the **‘Check’** button at any time – to verify your entries.
+- **‘Clear Board'** button lets you start from scratch or clear the current game.
 
 4. Tip – if you want to start a random game instead of a saved game, just input one number in any one of the **bordered** entries for numbers - ***Not the ones that the player has to fill.***
 Once you input one number -> Hit the **‘Start Game’** button for a different game.
