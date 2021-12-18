@@ -1,13 +1,15 @@
 # Sudoku Game with GUI written in Java
 
 
-<img width="309" alt="Screenshot 2021-12-15 at 5 18 40 AM" src="https://user-images.githubusercontent.com/26367904/146637830-5b7a08f3-f340-4ce2-9d4f-5aee9981b71b.png"> <img width="318" alt="Screenshot 2021-12-18 at 5 50 57 AM" src="https://user-images.githubusercontent.com/26367904/146638452-953fc35f-6784-47e0-8039-f052b26148b4.png">
+<img width="309" alt="Screenshot 2021-12-15 at 5 18 40 AM" src="https://user-images.githubusercontent.com/26367904/146637830-5b7a08f3-f340-4ce2-9d4f-5aee9981b71b.png">
 
 
 ## Description
 
 This application includes a 9x9 Graphical User Interface based sudoku game which can be connected to the Game server. 
 Game Server acts as a link between the client and database to save the state of an ongoing game and reload it at any time to continue from where it was left.
+
+<img width="318" alt="Screenshot 2021-12-18 at 5 50 57 AM" src="https://user-images.githubusercontent.com/26367904/146638452-953fc35f-6784-47e0-8039-f052b26148b4.png">
 
 
 ## Pre-requisites:
