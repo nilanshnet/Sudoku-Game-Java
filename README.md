@@ -1,17 +1,21 @@
 # Sudoku Game with GUI written in Java
 
+ <img width="309" alt="Screenshot 2021-12-15 at 5 18 40 AM" src="https://user-images.githubusercontent.com/26367904/146637830-5b7a08f3-f340-4ce2-9d4f-5aee9981b71b.png">
+
 ## Description
 
 This application includes a 9x9 Graphical User Interface based sudoku game which can be connected to the Game server. 
 Game Server acts as a link between the client and database to save the state of an ongoing game and reload it at any time to continue from where it was left.
 
+
 ## Pre-requisites:
 
-1. The ` sqlite-jdbc.jar ` [file](./sqlite-jdbc-3.30.1.1jar) to connect to the database
+1. The ` sqlite-jdbc.jar ` [file](./sqlite-jdbc-3.30.1.jar) to connect to the database
     In case of Eclipse - it imported as an external JAR in the library.
         Project -> properties -> Java build path -> libraries -> Add External JARs
 
 2. Database file having the table - 'Players' with the following schema:
+    
 
     The project already has a file [Database file](./javabook.db) - `javabook.db` for this purpose.
 
