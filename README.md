@@ -7,7 +7,7 @@ Game Server acts as a link between the client and database to save the state of 
 
 ## Pre-requisites:
 
-1. The ` sqlite-jdbc.jar ` file to connect to the database
+1. The ` sqlite-jdbc.jar ` [file](./sqlite-jdbc-3.30.1.1jar) to connect to the database
     In case of Eclipse - it imported as an external JAR in the library.
         Project -> properties -> Java build path -> libraries -> Add External JARs
 
