@@ -1,8 +1,7 @@
 # Sudoku Game with GUI written in Java
 
 
- <img width="309" alt="Screenshot <img width="318" alt="Screenshot 2021-12-18 at 5 50 57 AM" src="https://user-images.githubusercontent.com/26367904/146638381-a4926717-046b-4981-9294-55e00b9b4f76.png">
-2021-12-15 at 5 18 40 AM" src="https://user-images.githubusercontent.com/26367904/146637830-5b7a08f3-f340-4ce2-9d4f-5aee9981b71b.png"> 
+<img width="309" alt="Screenshot 2021-12-15 at 5 18 40 AM" src="https://user-images.githubusercontent.com/26367904/146637830-5b7a08f3-f340-4ce2-9d4f-5aee9981b71b.png"> <img width="318" alt="Screenshot 2021-12-18 at 5 50 57 AM" src="https://user-images.githubusercontent.com/26367904/146638452-953fc35f-6784-47e0-8039-f052b26148b4.png">
 
 
 ## Description
