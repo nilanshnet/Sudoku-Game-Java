@@ -56,3 +56,10 @@ Once you input one number -> Hit the **‘Start Game’** button for a different
 
 The game uses a back tracking algorithm to check if a solution is right and solve it. A bit of enhancement in the algorithm and a GUI component with an option to solve the game using an AI agent. So, the values will be filled fully once the ‘Agent solve’ button is hit.
 Currently, short on time. Will do later.
+
+
+## Sources for references and code help:
+
+1. www.github.com/coderodde 
+2. www.stackexchange.com
+3. www.stackoverflow.com
